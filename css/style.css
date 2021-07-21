@@ -1,4 +1,9 @@
-.panda-bg-info{
+/* .panda-bg-info{
+    background-color: #fceae8;
+} */
+
+.panda-rounded{
+    border-radius: 10px;
     background-color: #fceae8;
 }
 
@@ -13,3 +18,10 @@
     border-radius: 8px;
     padding: 9px 25px;
 }
+
+.panda-space{
+    padding-top: 100px;
+    
+}
+
+
